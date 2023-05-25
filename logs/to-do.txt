@@ -1,0 +1,13 @@
+Contact page
+    email
+    linkedin
+    resume
+
+About page
+    Job information
+    Education
+    Certificates
+    Description of me?
+
+
+Projects page?

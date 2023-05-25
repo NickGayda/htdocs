@@ -1,0 +1,5 @@
+05/24/2023
+Added to GitHub
+Researched potentially using React and Node.js
+    Will not work with free version of the webhost I am using
+Decided on making the website be multiple pages
